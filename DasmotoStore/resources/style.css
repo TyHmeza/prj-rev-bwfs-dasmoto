@@ -1,0 +1,50 @@
+
+
+h1 {
+
+}
+
+
+p {
+  font-family: Helvetica;
+}
+
+p strong {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+#titleStore {
+  background-image: url("pattern.jpeg");
+  text-align: center horizontal;
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+
+}
+
+#brushes h1 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+#frames h1 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+#paint h1 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
